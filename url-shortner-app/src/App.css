@@ -1,0 +1,40 @@
+.box {
+  width : 48%;
+  margin: 22vh auto;
+  padding:10px;
+  text-align: center;
+  align-items: center;
+  background-color: rgb(10, 1, 1);
+  border-radius:2vh;
+  border: 3px solid rgb(45, 40, 193);
+  box-shadow: 20px black;
+}
+
+#smallBox{
+  display: flex;
+  margin-block: 4vh;
+  
+}
+
+#urlHeading{
+  font-size: 5vh;
+  font-weight: bold;
+  color: #14597c;
+}
+
+#btn{
+  margin-left: 15px;
+}
+
+#btnCopy{
+  margin-left: 15px;
+}
+
+#shortUrl{
+  border: 1px solid rgb(15, 2, 2);
+  margin-bottom: 3vh;
+}
+
+#longUrl{
+  border: 1px solid rgb(40, 122, 193);
+}
